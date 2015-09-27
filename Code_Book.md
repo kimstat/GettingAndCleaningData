@@ -43,8 +43,8 @@ Other Variables - measurements related to time and frequency as measured by the 
 
 Output Structure:
 
-Final Tidy Data Frame:
-'data.frame':	180 obs. of  68 variables:
+Final Tidy Data Frame:  
+'data.frame':	180 obs. of  68 variables:  
 $	subject	int	  
 $	activity	Factor	  
 $	time_Body_Accelerometer_mean()_X	num	  
